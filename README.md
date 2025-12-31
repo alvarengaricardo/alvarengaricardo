@@ -17,4 +17,6 @@ Mestre pelo Instituto Tecnológico de Aeronáutica - ITA -->
 
 <!-- Links (opcional): substitua pelos seus -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abrir-blue)](https://www.linkedin.com/in/alvarengaricardo/)
+<!--
 [![Portfolio](https://img.shields.io/badge/Portfólio-abrir-black)](COLE_AQUI_SEU_LINK)
+-->
